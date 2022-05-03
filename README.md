@@ -27,11 +27,11 @@ vless 性能更加优秀，占用资源更少。
 如出现错误，可以多尝试几次，待部署完成后页面底部会显示`Your app was successfully deployed` 
   * 点击Manage App可在Settings下的Config Vars项**查看和重新设置参数**  
   * 点击Open app跳转[欢迎页面](/etc/CADDYIndexPage.md)域名即为heroku分配域名，格式为`xxx.herokuapp.com`，用于客户端  
-  * 默认协议密码为`24b4b1e1-7a89-45f6-858c-242cf53b5bdb`，WS路径为$UUID-[vmess|vless|trojan|ss|socks]格式
+  * 默认协议密码为`48d3fb3d-4a41-481f-8078-b5746a4fb3b5`，WS路径为$UUID-[vmess|vless|trojan|ss|socks]格式
 
 ### 客户端
 * **务必替换所有的`xxx.herokuapp.com`为heroku分配的项目域名**  
-* **务必替换所有的`24b4b1e1-7a89-45f6-858c-242cf53b5bdb`为部署时设置的UUID,建议更改,不要每个人都一样**  
+* **务必替换所有的`48d3fb3d-4a41-481f-8078-b5746a4fb3b5`为部署时设置的UUID,建议更改,不要每个人都一样**  
 
 **XRay 将在部署时会自动实配安装`最新版本`。**
 
