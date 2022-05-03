@@ -2,10 +2,10 @@
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/填写成自己的github账号/仓库的名字/main/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/Janelin66/x-o/main/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "自定义网络地址读取配置运行xray，不熟悉xray配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/填写成自己的github账号/仓库的名字/main/etc/xray.json"
+            "value": "https://raw.githubusercontent.com/Janelin66/x-o/main/etc/xray.json"
 
 
